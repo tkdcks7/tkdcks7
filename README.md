@@ -1,10 +1,10 @@
-# 개발자가 되기 위해 노력하고 있는 **강상찬** 입니다
+# 길을 찾아내는 개발자 **강상찬** 입니다
 ## STAT
 - Github stat  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tkdcks7&show_icons=true&theme=radical)
 
 
-- 알고리즘... 열심히 풀고 있습니다  
+- 알고리즘... 노력하겠습니다
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=phoenicia)](https://solved.ac/phoenicia)
 
 
